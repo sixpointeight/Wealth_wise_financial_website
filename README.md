@@ -36,8 +36,8 @@ A sleek, modern, institutional-grade web presence for **Wealth Wise Financial, I
 ├── index.html              # Main semantic HTML5 document
 ├── styles.css              # Custom responsive CSS design system
 ├── app.js                  # Interactive calculator, modals, FAQ accordion & navigation
-├── logo2.png               # Official Wealth Wise Financial logo
-├── logo-transparent.png    # High-resolution transparent emblem
+├── logo_shield_transparent.png # Official Wealth Wise Institutional Shield Emblem (Transparent)
+├── logo2.png               # Legacy brand logo
 ├── netlify.toml            # Netlify deployment and security headers configuration
 └── README.md               # Project documentation
 ```
