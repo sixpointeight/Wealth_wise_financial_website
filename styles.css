@@ -322,7 +322,7 @@ button {
 }
 
 .brand-logo-img {
-  height: 48px;
+  height: 44px;
   width: auto;
   object-fit: contain;
   transition: transform var(--transition-base), filter var(--transition-base);
@@ -330,8 +330,8 @@ button {
 }
 
 .brand-link:hover .brand-logo-img {
-  transform: scale(1.06);
-  filter: drop-shadow(0 0 12px rgba(197, 160, 89, 0.4));
+  transform: scale(1.05);
+  filter: drop-shadow(0 0 12px rgba(197, 160, 89, 0.5));
 }
 
 .brand-text-group {
